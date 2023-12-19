@@ -6,3 +6,5 @@ image white = Solid("#ffffff")
 image blue = Solid("#0000FF")
 define config.allow_underfull_grids = True
 default developer = False
+
+default interface_aff = 0
