@@ -29,7 +29,11 @@ define config.version = "0.0.1-alpha"
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
+define gui.about = _p("""You're exploring an abandoned facility. Deep inside, you stumble across a hidden room. Inside, you find this girl connected to a bunch of wires on a mainframe. To your left: a computer system, dust gathered on the surfaces but the screen on, the empty console blinking; waiting for your input. To your right: an old, tattered book, with faded lettering; the title is simply "Archive".
+
+---
+
+\"Project Genesis\" is a sci-fi, mystery and romance visual novel created by Wistful Willow Limited.
 """)
 
 
