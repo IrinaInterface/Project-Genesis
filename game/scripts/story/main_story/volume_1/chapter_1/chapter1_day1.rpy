@@ -28,4 +28,11 @@ label chapter1_day1_begin:
     "As I ventured forward, looking around in awe, it became clear what this place really was."
     "{i}It was a testing chamber.{/i}"
     "Up ahead was a weird frame thing."
-    "I approached with caution." 
+    "I approached with caution."
+    show interface first_awakening eyeclose_neutral with Dissolve(2.0)
+    "I could see a small girl, laying peacefully on a table."
+    "The wires... were connected to her..."
+    "My mind quickly joined the pieces."
+    "She must be an Android."
+    "I thought they were outlawed long ago... How does she still exist...?"
+    "Curiosity got the better of me, and I approached cautiously."
