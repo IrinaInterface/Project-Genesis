@@ -8,3 +8,5 @@ define config.allow_underfull_grids = True
 default developer = False
 
 default interface_aff = 0
+
+define unk = Character("???")
